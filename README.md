@@ -18,5 +18,6 @@
 ## 7주차 과제
    <img width="" height="" src="./png/7주차 과제.png/"></img>
    <img src="./png/7주차 과제2.png/"></img>
+
 ## 10주차 과제
-    <img width="" height="" src="./png/10주차 과제.png/"></img>
+   <img src="./10주차 과제.png/"></img>
